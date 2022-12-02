@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/cs1300development/static/css/main.7b2fc4b6.css",
-    "main.js": "/cs1300development/static/js/main.28e32400.js",
+    "main.css": "/cs1300development/static/css/main.2cd8bf30.css",
+    "main.js": "/cs1300development/static/js/main.d062dd54.js",
     "static/media/yas.jpg": "/cs1300development/static/media/yas.f5273a9a8656e81775be.jpg",
     "static/media/bogaerts.jpg": "/cs1300development/static/media/bogaerts.05f7dc9ecd9e530d64b2.jpg",
     "static/media/gehrig.jpg": "/cs1300development/static/media/gehrig.54f1b6a615845981d4fe.jpg",
     "static/media/judge.jpg": "/cs1300development/static/media/judge.9aedcf887c91d9807d63.jpg",
     "static/media/stanton.jpg": "/cs1300development/static/media/stanton.189137d40299646af230.jpg",
     "static/media/ruth.jpg": "/cs1300development/static/media/ruth.41e4aa8e8b7f6a13178f.jpg",
+    "static/media/baseball.jpeg": "/cs1300development/static/media/baseball.99ae4f2a55e1f5e7bc85.jpeg",
     "static/media/ortiz.jpg": "/cs1300development/static/media/ortiz.016c6a687c5fcdae9971.jpg",
     "static/media/torres.jpg": "/cs1300development/static/media/torres.b398a4f3bea162ae3c68.jpg",
     "static/media/devers.jpg": "/cs1300development/static/media/devers.a932d9a2f9fc2ea48e1d.jpg",
@@ -15,11 +16,11 @@
     "static/media/clemens.jpg": "/cs1300development/static/media/clemens.f0b0b4e683f24d4567bb.jpg",
     "static/media/jeter.jpg": "/cs1300development/static/media/jeter.2865e32d4424241295e4.jpg",
     "index.html": "/cs1300development/index.html",
-    "main.7b2fc4b6.css.map": "/cs1300development/static/css/main.7b2fc4b6.css.map",
-    "main.28e32400.js.map": "/cs1300development/static/js/main.28e32400.js.map"
+    "main.2cd8bf30.css.map": "/cs1300development/static/css/main.2cd8bf30.css.map",
+    "main.d062dd54.js.map": "/cs1300development/static/js/main.d062dd54.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b2fc4b6.css",
-    "static/js/main.28e32400.js"
+    "static/css/main.2cd8bf30.css",
+    "static/js/main.d062dd54.js"
   ]
 }
