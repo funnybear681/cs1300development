@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Babe Ruth",
+        "team": "Yankees",
+        "img": "../images/ruth.jpg",
+        "status": "retired",
+        "price": 200,
+        "id": 1
+    },
+    {
+        "name": "Lou Gehrig",
+        "team": "Yankees",
+        "img": "../images/gehrig.jpg",
+        "status": "retired",
+        "price": 190,
+        "id": 2
+    },
+    {
+        "name": "Derek Jeter",
+        "team": "Yankees",
+        "img": "../images/jeter.jpg",
+        "status": "retired",
+        "price": 100,
+        "id": 3
+    },
+    {
+        "name": "Aaron Judge",
+        "team": "Yankees",
+        "img": "../images/judge.jpg",
+        "status": "active",
+        "price": 90,
+        "id": 4
+    },
+    {
+        "name": "Gleyber Torres",
+        "team": "Yankees",
+        "img": "../images/torres.jpg",
+        "status": "active",
+        "price": 80,
+        "id": 5
+    },
+    {
+        "name": "Giancarlo Stanton",
+        "team": "Yankees",
+        "img": "../images/stanton.jpg",
+        "status": "active",
+        "price": 70,
+        "id": 6
+    },
+    {
+        "name": "Roger Clemens",
+        "team": "Red Sox",
+        "img": "../images/clemens.jpg",
+        "status": "retired",
+        "price": 180,
+        "id": 7
+    },
+    {
+        "name": "David Ortiz",
+        "team": "Red Sox",
+        "img": "../images/ortiz.jpg",
+        "status": "retired",
+        "price": 150,
+        "id": 8
+    },
+    {
+        "name": "Mike Yastrzemski",
+        "team": "Red Sox",
+        "img": "../images/yas.jpg",
+        "status": "retired",
+        "price": 170,
+        "id": 9
+    },
+    {
+        "name": "Xander Bogaerts",
+        "team": "Red Sox",
+        "img": "../images/bogaerts.jpg",
+        "status": "active",
+        "price": 110,
+        "id": 10
+    },
+    {
+        "name": "Rafael Devers",
+        "team": "Red Sox",
+        "img": "../images/devers.jpg",
+        "status": "active",
+        "price": 85,
+        "id": 11
+    },
+    {
+        "name": "Eric Hosmer",
+        "team": "Red Sox",
+        "img": "../images/hosmer.jpg",
+        "status": "active",
+        "price": 55,
+        "id": 12
+    }
+]
