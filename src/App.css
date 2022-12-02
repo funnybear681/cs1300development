@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background: url(./images/baseball.jpeg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 
 .option-wrapper {
@@ -10,14 +14,20 @@
 
 .jersey-card {
   box-shadow: rgba(0, 0, 0, 0.4) 0px 8px 24px;
-  background-color: #a3a9da;
+  background-color: #ffffff;
 
   width: 250px;
   height: auto;
   border-radius: 20px;
-  color: white;
+  color: black;
   padding: 20px;
+}
 
+.head {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 8px 24px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  width: 90%
 }
 
 .j-image{
@@ -48,10 +58,11 @@
 .cartItem{
   border-radius: 20px;
   padding: 10px;
-  background-color: #a3a9da;
+  background-color: #ffffff;
   display: flex
 }
 
 .Filters {
   line-height: 200%;
+
 }

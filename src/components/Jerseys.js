@@ -133,8 +133,10 @@ function Jerseys(props) {
 
     return (
         <div className="Container">
-          <h1>Jersey Shop</h1>
-          <h3>Welcome to my Jersey Store! You can filter and sort using the buttons</h3>
+          <div className="head">
+            <h1>Jersey Shop</h1>
+            <h3>Welcome to my Jersey Store! You can filter and sort using the buttons</h3>
+          </div>
           <div>
               <h2>Filters:</h2>
               <div className="Filters">
