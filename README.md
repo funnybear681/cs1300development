@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://funnybear681.github.io/cs1300development>
 
 ### Goal and Value of the Application
 This application is a jersey website. For the purposes of brevity, and since I wrote my own dataset, there are only 12 jerseys available for purchase, and all of them are either on the Red Sox or Yankees. 
